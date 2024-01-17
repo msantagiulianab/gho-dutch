@@ -17,5 +17,9 @@
     "hardhat-gas-reporter": "^1.0.8",
     "solidity-coverage": "^0.8.0",
     "typechain": "^8.3.0"
+  },
+  "dependencies": {
+    "@aave/contract-helpers": "1.21.1",
+    "@aave/math-utils": "1.21.1"
   }
 }
